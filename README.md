@@ -1,2 +1,1 @@
-Learn coding.
-Test code.
+Learn Python in freecodecamp.
